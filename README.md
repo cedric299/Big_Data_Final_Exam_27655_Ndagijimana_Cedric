@@ -15,8 +15,9 @@ This project analyzes performance trends of youth and professional football play
 ## 🗂️ Dataset Information
 
 - **Title:** Player Performance Data  
-- **Format:** Excel (/Player.xlsx)  
-- **Rows:** 20+ players  
+- **Format:** Excel [Player.xlsx](https://github.com/user-attachments/files/21572661/Player.xlsx)
+
+- **Rows:** 20+ Players  
 - **Columns:** Name, Age, Team, Matches, Goals, Assists, Minutes Played, Value, etc.  
 ---
 
