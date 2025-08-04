@@ -106,6 +106,8 @@ Here, we calculate and display:
 - Top 5 players who score the most goals per match (not just total goals)
 - Top 5 players with the most assists per match
 - This ranking system highlights efficiency, not just volume.
+<img width="639" height="340" alt="3 Top Scorer" src="https://github.com/user-attachments/assets/f750c7bd-ae27-4408-a87a-9d094191a4c0" />
+
 # 4. Clustering Players
 This applies KMeans Clustering to group players based on their:
 - Total goals
@@ -115,10 +117,14 @@ It helps discover patterns like:
 - High impact players with low minutes
 - Balanced contributors
 - Players with high minutes but lower output
+<img width="632" height="330" alt="2 Average Goals Per Match" src="https://github.com/user-attachments/assets/2ec52790-4ba1-4aec-93d1-8fac7c7d93b0" />
+
 # Cluster Visualization
 This scatter plot shows players grouped into clusters based on their goal and assist numbers. It's useful for:
 - Visually identifying similar performance profiles
 - Making talent grouping decisions
+<img width="489" height="262" alt="Performance" src="https://github.com/user-attachments/assets/988b6157-7418-40e7-9513-fc2d53844ecd" />
+
 # Check number of players in each cluster
 This displays how many players are in each cluster, which tells you:
 - Which type of player is most common
