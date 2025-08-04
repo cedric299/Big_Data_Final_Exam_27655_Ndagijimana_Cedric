@@ -123,4 +123,6 @@ This scatter plot shows players grouped into clusters based on their goal and as
 This displays how many players are in each cluster, which tells you:
 - Which type of player is most common
 - Whether certain performance types dominate the dataset
+#  License
+This project is for academic purposes only
 
